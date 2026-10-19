@@ -28,6 +28,7 @@ A curated list of genuinely useful, free, no-signup-required online tools — or
 ## Developer Tools
 - [WebTools Engine – JSON Formatter, Regex Tester, Diff Checker](https://blazesolutions.info/developer-tools)
 - [JSONLint](https://jsonlint.com/)
+- [BestJSON JSON Diff](https://bestjson.com/json-diff) — compare JSON structures and inspect added, removed or changed values by path in the browser
 - [Caesar Cipher](https://blazesolutions.info/tools/caesar-cipher)
 
 ---
